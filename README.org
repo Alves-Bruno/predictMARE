@@ -1,0 +1,7 @@
+* How to install 
+
+#+begin_src R 
+install.packages("devtools")
+library(devtools)
+install_github("Alves-Bruno/predictMARE")
+#+end_src
